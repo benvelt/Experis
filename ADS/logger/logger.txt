@@ -1,0 +1,2 @@
+2018-07-31 18:15:18 7049 0 C PRINT Log_Level is critical, var i = 9, char test is - t.
+2018-07-31 18:15:18 7049 0 E PRINT2 Log_Level is error, var i = 0, string test is - tested string.
